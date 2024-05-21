@@ -13,3 +13,4 @@ export default function SearchBox({ value, onFilter }){
         </div>
       );
     
+}
